@@ -15,5 +15,5 @@ For the matrix you will:
 8. 3 x 74HC595 shift register
 10. some pin headers.
 
-# Schematics
-![alt text](https://cdn.instructables.com/FUG/NP1X/GBVJ2558/FUGNP1XGBVJ2558.LARGE.jpg)
+# Detailed Blog
+Blog https://medium.com/@ariesiitr/shivanshu-iitr-62df5b9f3535
