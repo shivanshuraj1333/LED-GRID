@@ -1,3 +1,7 @@
+I started from scratch, literally.
+This one I created with ❤️ the hardware, and the code.
+It was fun!!
+
 # LED-GRID
 Led Grid Display 6*24 which can display characters, symbols etc just like a normal display but whith low resloution (144 leds acting as pixel).
 # GIF of my Led Grid Display.
